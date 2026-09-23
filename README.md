@@ -19,8 +19,6 @@ Building high-performance distributed systems, raw TCP databases, and concurrent
 
 I'm a Computer Science student at the University of New South Wales (UNSW) who enjoys building the underlying infrastructure that powers the web. 
 
-Instead of just wrapping APIs, I specialize in bypassing high-level abstractions to engineer core systems—from custom in-memory key-value stores using raw C POSIX sockets to distributed, concurrency-safe microservices deployed on AWS. 
-
 ### < > Tech Stack < >
 
 ```text
