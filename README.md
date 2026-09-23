@@ -2,9 +2,9 @@
 
 # AYAN ATA
 
-`Backend & Systems Engineer` · `Distributed Architecture` · `UNSW CompSci '28`
+`Full Stack Engineer` · `Distributed Architecture` · `UNSW CompSci '28`
 
-Building high-performance distributed systems, raw TCP databases, and concurrent backend architecture with a focus on low-level optimization, reliability, and scale.
+Building high-performance end to end distributed systems and concurrent backend architecture with a focus on optimization, reliability, and scale.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
