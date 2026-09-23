@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AyanAta42/AyanAta42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AYAN ATA
 
-Here are some ideas to get you started:
+`Backend & Systems Engineer` · `Distributed Architecture` · `UNSW CompSci '28`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building high-performance distributed systems, raw TCP databases, and concurrent backend architecture with a focus on low-level optimization, reliability, and scale.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](YOUR_LEETCODE_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedayanata@gmail.com)
+
+</div>
+
+---
+
+### About
+
+I'm a Computer Science student at the University of New South Wales (UNSW) who enjoys building the underlying infrastructure that powers the web. 
+
+Instead of just wrapping APIs, I specialize in bypassing high-level abstractions to engineer core systems—from custom in-memory key-value stores using raw C POSIX sockets to distributed, concurrency-safe microservices deployed on AWS. 
+
+### < > Tech Stack < >
+
+```text
+Languages      C · Python · TypeScript · JavaScript · SQL · Assembly (MIPS)
+Systems        POSIX Sockets · Pthreads · TCP/IP · WebSockets · Concurrency
+Databases      PostgreSQL · Redis · MongoDB · Prisma · Supabase
+Cloud & Tools  AWS (ECS & ALB) · Docker · Kubernetes · Terraform · Git 
+Frameworks     Node.js · Express · React · Next.js
